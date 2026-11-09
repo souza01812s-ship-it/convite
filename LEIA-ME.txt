@@ -1,0 +1,14 @@
+CONVITE DE FORMATURA CEIMM - VERSAO GITHUB PAGES
+
+1. Crie um repositorio publico no GitHub.
+2. Envie TODOS os arquivos e pastas desta pasta para a raiz do repositorio.
+3. No repositorio, abra Settings > Pages.
+4. Em Build and deployment, selecione Deploy from a branch.
+5. Escolha a branch main e a pasta /(root), depois clique Save.
+6. Aguarde alguns minutos. O GitHub mostrara o endereco publico em Settings > Pages.
+
+IMPORTANTE:
+- Esta versao e estatica e nao precisa de Python, Flask ou servidor.
+- Mantenha a pasta static e todos os seus arquivos no repositorio.
+- A musica inicia quando o convidado clica em Abrir convite. Navegadores bloqueiam autoplay com som antes de uma interacao.
+- Para trocar a musica, substitua static/audio/musica-calma.mp3 mantendo o mesmo nome.
